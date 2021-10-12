@@ -2,9 +2,8 @@
 
 How are you doing? My name is Pau, I am a Junior Data Scientist currently based in London (UK). 
 
-If you are seeing this, _**welcome to my porfolio!**_ In it, I showcase most of the skills I have learned in my path as a coder. These are only some of my favourite projects:
+If you are seeing this, _**welcome to my porfolio!**_ In it, I showcase most of the skills I have learned in my path as a coder. Pinned below this README you can see some of my favourite projects
 
+Otherwise, you can find all my other repositories ordered by difficulty from Sprint 2 to 19. Happy coding!
 
-
-
-- 📫 You can reach me through email or LinkedIn
+- 📫 You can reach me through [email](pau.gomez.martinez@gmail.com) or [LinkedIn](https://www.linkedin.com/in/paugm/)
